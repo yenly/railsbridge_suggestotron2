@@ -1,24 +1,4 @@
-# README
+[RailsBridge Intro To Rails Workshop](http://docs.railsbridge.org/intro-to-rails/intro-to-rails) hosted at Instacart.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Link to work:
+* [Suggestotron2 with Devise for authentication - Deployed Demo on Heroku](https://damp-eyrie-95629.herokuapp.com/)
